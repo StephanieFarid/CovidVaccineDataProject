@@ -1,3 +1,40 @@
 This project has been much of a collabrative effort. 
 Each of us have contibuted to not only our own responsibilities, but with also helping our peers. 
 However, we have divided up the portions of the final  in order to 
+
+
+
+Rough script:
+Intro
+ The year is 2021.  The novel coronavirus? has taken the world by storm. The pandemic? So far, has lasted for over a year. What about Vaccinations? Vaccinations?...dun dun dun… you’ll find out more, during our presentation on the data behind vaccinations in the 
+US.
+
+This dataset was collected by "Our World in Data"
+The data we will explore covers: Total Vaccinations/Per Hundred, People Vaccinated/Per
+Hundred, People Fully Vaccinated/Per Hundred, Total Distributed and Share Doses Used
+We chose to limit our focus to the US instead of World or any other aspect of the vaccinations, because that’s frankly what is most relevant to us--being that we all live in the US and the data is concise enough to come to a conclusion.
+
+We chose "March 4th" right into this dataset and removed any information prior to that date, being that it is a cumulative dataset all information gathered on days prior is included in the numbers from the date.
+We used only mainland US states (and Hawaii) and removed any entities that are not part of this group.
+
+ 
+1.
+ This looks sparse, but it all comes down to population. California’s population is roughly 25% larger than Texas, 30% larger than Florida, 10% larger than California. So even within the four states with the largest populations, there’s a giant gap, so when we take a look at the percentage(or people fully vaccinated per hundred) we get a much more clear look.
+2.
+GENERAL ELIGIBILITY REQUIREMENTS
+Frontline healthcare workers
+Long Term care workers
+Public health workers
+Emergency medical services law enforcement and correctional officers
+
+ALASKA
+The first state to open eligibility to anyone over the age of 16, this is a huge determining factor towards the jump in numbers for people that are actually fully vaccinated.
+
+NEW MEXICO
+Anyone over 16 at high risk or with pre existing conditions.
+
+SOUTH DAKOTA
+Teachers, funeral service workers. Anyone under 65 with underlying conditions and high risk patients. 
+
+WEST VIRGINIA
+Anyone over 50, education workers between 40 and 50 and anyone over 16 with preexisting conditions. 
