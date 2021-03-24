@@ -1,10 +1,14 @@
 This project has been much of a collabrative effort. 
 Each of us have contibuted to not only our own responsibilities, but with also helping our peers. 
-However, we have divided up the portions of the final  in order to 
+However, we have divided up the portions of the whole, in order to more efficiently dive into the depths of the data.
+
+For my individual contributions, I cleaned the raw data in order to create a cohesive dataset in the form of a csv, which we all used for our study. Moving on to the 
+analysis part, I covered the sections titled, "People Fully Vaccinated" and "People Fully Vaccinated Per Hundred".
 
 
 
-Rough script:
+Below, is the rough script I used for the video portion allowing room for improvisation as needed:
+
 Intro
  The year is 2021.  The novel coronavirus? has taken the world by storm. The pandemic? So far, has lasted for over a year. What about Vaccinations? Vaccinations?...dun dun dun… you’ll find out more, during our presentation on the data behind vaccinations in the 
 US.
